@@ -2,7 +2,7 @@
     <div id="about">
       <h1 class="intro">
         Hey! I'm Viho Serge, <br>
-        Software Developper from Senegal 🇸🇳 
+        Software Developer from Senegal 🇸🇳 
       </h1>
     </div>
     <div id="picture">
